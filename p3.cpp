@@ -18,6 +18,7 @@ class cal
         cout<<"The multiplication is:"<<x*y<<endl;
         cout<<"The division is:"<<x/y<<endl;
         cout<<"The subtraction is:"<<x-y<<endl;
+	cout<<"The Modulo is:"<<x%y<<endl;
         cout<<"The constructor Ends";
     }
 };
